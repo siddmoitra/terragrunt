@@ -1,4 +1,4 @@
-FROM alpine/terragrunt:0.12.18
+FROM alpine/terragrunt:0.12.19
 LABEL maintainer="devops@finleap.com"
 
 # ensure local python is preferred over distribution python
